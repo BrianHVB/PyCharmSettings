@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="project-files-custom" />
+    <option name="defaultScopeName" value="project-files-custom" />
+    <option name="SEARCH_SCOPE" value="project-files-custom" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
